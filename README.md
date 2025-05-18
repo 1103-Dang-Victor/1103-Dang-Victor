@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Victor</h1>
-<p>I'm a sophomore student at the University of Nevada, Reno currently learning full-stack development and building helpful cool websites. 
-  I'm currently working on the kpop-comebacks-tracker
+<p>I'm a sophomore student at the University of Nevada, Reno currently learning full-stack development and building helpful and/or cool websites. 
   If you'd like to connect/contact, email me at vdang@unr.edu</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
