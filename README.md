@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Victor</h1>
-<p>I'm a junior at the University of Nevada, Reno currently learning about full-stack development and building websites. 
-  If you'd like to connect/contact, email me at vdang@unr.edu</p>
+<p>I'm a <b>Junior</b> at the University of Nevada, Reno currently working on becoming a software engineer. My interests lie in building <b>internal developer tools</b> and <b>useful and/or fun websites</b> for anybody to interact with. If you'd like to connect/contact, email me at <b>vdang@unr.edu</b></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
